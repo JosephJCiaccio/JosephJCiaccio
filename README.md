@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Helpdesk Projects:</h2>
 
-  - [Link Title](Link)
+  - [Active Directory Home Lab] https://github.com/JosephJCiaccio/ActiveDirectoryLab/blob/main/README.md 
   - [Link Title](Link) <b><i>(Additional Information)</b></i>
   - [Link Title](Link) <b><i>(Additional Information)</b></i>
 
