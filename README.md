@@ -15,8 +15,7 @@
  - [Link Title](Link)
   
 <h2> 🤳 Connect with me:</h2>
-
-[linkedin]: www.linkedin.com/in/josephciaccio
+- www.linkedin.com/in/josephciaccio
 
 
 
