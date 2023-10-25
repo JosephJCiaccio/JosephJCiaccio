@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-  - [Active Directory Home Lab] https://github.com/JosephJCiaccio/ActiveDirectoryLab/blob/main/README.md 
+  - [Active Directory - User Creation Automation] https://github.com/JosephJCiaccio/ActiveDirectoryLab/blob/main/README.md 
     
 
 <h2>📜 Certifications:</h2>
