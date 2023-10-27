@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joseph Ciaccio. <a href="https://www.linkedin.com/in/yourlinkedin/"> </a>
+<h1>Joseph Ciaccio. <a href="https://www.linkedin.com/in/yourlinkedin/"> </a>
 
 <h2>👨‍💻 Projects:</h2>
 
