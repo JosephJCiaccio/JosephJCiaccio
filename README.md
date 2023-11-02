@@ -1,10 +1,6 @@
 <h1>Joseph Ciaccio. <a href="https://www.linkedin.com/in/yourlinkedin/"> </a>
 
-<h2>👨‍💻 Projects:</h2>
-
-  - [Active Directory - User Creation Automation] https://github.com/JosephJCiaccio/ActiveDirectoryLab/blob/main/README.md 
     
-
 <h2>📜 Certifications:</h2>
 
   
