@@ -2,7 +2,7 @@
 
     
 <h2>📜 Certifications:</h2>
-
+https://github.com/JosephJCiaccio/Certifications-/blob/main/Certifications_JosephJCiaccio.pdf
   
 <h2> 🤳 Connect with me:</h2>
 - www.linkedin.com/in/josephciaccio
