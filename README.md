@@ -8,9 +8,7 @@
  
 [CompTIA Network+](https://github.com/JosephJCiaccio/Certifications-)
 
-<h2> 🤳 Connect with me:</h2>
 
-[LinkedIn](www.linkedin.com/in/josephciaccio)
 
 
  
