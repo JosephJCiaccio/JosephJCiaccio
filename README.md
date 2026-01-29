@@ -6,7 +6,7 @@
 
  <h2> 📄 Certifications:</h2>
  
-[CompTIA Network+](https://github.com/joshmadakor1/Algorithms-Practice)
+[CompTIA Network+](https://github.com/JosephJCiaccio/Certifications-)
 
 <h2> 🤳 Connect with me:</h2>
 
